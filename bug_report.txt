@@ -1,1 +1,12 @@
-
+Id: 1
+Name: Can't log in after clicking the login button
+Description: Can't log in when the correct data was entered
+STR: 1. Open the auth page
+     2. Enter the login value 'test'
+     3. Enter the password value 'test'
+     4. Press 'Log In' button
+AR: Error message 'Incorrect username or password' appeared
+ER: Login successful. User profile appeared
+Priority: High
+Severity: Blocker
+Environment: Chrome 102.0.5005.63
